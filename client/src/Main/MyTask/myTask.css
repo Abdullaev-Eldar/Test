@@ -1,0 +1,78 @@
+.boxTask{
+    margin-left: 250px;
+    margin-right: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    border-width:1;
+    border-color: rgb(101, 101, 101);
+    border-style: solid;
+    height: 760px;
+}
+.h{
+    text-align: center;
+}
+.line1 {
+    border-bottom: 5px solid rgb(3, 175, 14); 
+    width: 100%;
+   }
+   .line2 {
+    border-bottom: 5px solid rgb(255, 154, 2); 
+    width: 100%;
+
+   }
+   .line3 {
+    border-bottom: 5px solid rgb(4, 0, 255); 
+    width: 100%;
+
+   }
+   .line4 {
+    border-bottom: 5px solid rgb(255, 3, 3); 
+    width: 100%;
+   }
+.borderBox{
+    overflow-x: auto;
+    height: 700px;
+    border-width:1px;
+    border-color: rgb(111, 110, 111);
+    border-style: solid;
+}
+   .boxdesc{
+    display: flex;
+   }
+   .desc{
+    background-color: #c1c0c07b;
+    border: none;
+    border-width:1px;
+    border-color: rgb(132, 132, 132);
+    border-style: solid;
+    height: 40px;
+    width: 130px;
+}
+.desc p {
+    text-align: center;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    white-space: nowrap;
+    padding: 5px;
+}
+.condidateBox{
+display: flex;
+}
+.condidateBox:hover{
+    background-color: #1976D2;
+}
+.condidate{
+    overflow-x: auto;
+    width: 130px;
+    height: 40px;
+    border-width:1px;
+    border-color: rgb(132, 132, 132);
+    border-style: solid;
+    text-align: center;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    white-space: nowrap;
+    padding: 5px;
+}

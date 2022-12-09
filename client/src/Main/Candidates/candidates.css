@@ -1,0 +1,33 @@
+.mycandidatesBox{
+    overflow-x: auto;
+    position: relative;
+    margin-left: 250px;
+    margin-right: 90px;
+    border-width:1;
+    border-color: rgb(101, 101, 101);
+    border-style: solid;
+    height: 760px;
+}
+.navMenu{
+position: relative;
+display: flex;
+padding: 5px;
+height: 60px;
+}
+
+.bttn{
+    margin: 5px;
+    border-radius: 3px;
+    background-color: rgb(255, 255, 255);
+    font-size: 18px;
+}
+.bttn-end{
+ margin-left: 700px;
+}
+
+.table{
+    border-width:1;
+    border-color: rgb(101, 101, 101);
+    border-style: solid;
+    margin: 10px;
+}
