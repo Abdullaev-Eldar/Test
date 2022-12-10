@@ -1,4 +1,5 @@
 import React from 'react';
+import Menu from '../Main/Menu/Menu';
 import './header.css';
 
 function Header() {
@@ -27,6 +28,7 @@ function Header() {
           </a>
         </button>
       </div>
+      <Menu />
     </>
   );
 }

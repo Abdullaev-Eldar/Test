@@ -1,0 +1,105 @@
+.header{
+    display: flex;
+    padding-left: 250px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.card{
+    margin-left: 250px;
+}
+
+.star{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.navMenu2{
+    position: relative;
+    margin-left: 240px;
+    display: flex;
+    padding: 5px;
+    height: 60px;
+    }
+    
+    .bttn2{
+        margin: 5px;
+        border-radius: 3px;
+        background-color: rgb(255, 255, 255);
+        font-size: 18px;
+    }
+    .bttn2:hover{
+        background-color: #1976D2;
+        color: white;
+    }
+    .href{
+    margin-top: 15px;
+    margin-left: 10px;
+    font-size: 18px;
+    }
+
+    .container{
+        margin-left: 240px;
+        display: flex;
+        flex-direction: column;
+        /* border-width:1;
+        border-color: rgb(101, 101, 101);
+        border-style: solid; */
+        height: 760px;
+    }
+    .list{
+        margin-top: 20px;
+        display: flex;
+    }
+    .title{
+        width: 70px;
+        font-size: 20px;
+    }
+    .info{
+        margin-left: 80px;
+        width: 400px;
+        justify-content: center;
+        border-width:1;
+        border-color: rgb(101, 101, 101);
+        border-style: solid;
+        border-radius: 5px;
+        padding-left: 5px;
+        font-size: 20px;
+    }
+    .info:hover{
+        border-color: #1976D2;
+    }
+    .info-experience{
+        margin-left: 80px;
+        /* width: 90px; */
+        width: auto;
+        justify-content: center;
+        border-width:1;
+        border-color: rgb(101, 101, 101);
+        border-style: solid;
+        border-radius: 5px;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 18px;
+    }
+    .info-experience:hover{
+        border-color: #1976D2;
+    }
+    .img{
+      position: absolute;
+      margin-left: 700px;
+      margin-top: 10px;
+      border-radius: 10px;
+      width: 300px;
+      height: 300px;
+    }
+.button-more{
+    margin-top: 220px;
+    margin-left: -12px;
+    position: absolute;
+    display: flex;
+    padding: 5px;
+    height: 60px;
+}
+.more{
+    margin-top: 80px;
+}

@@ -1,4 +1,5 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import {
   Navbar,
   NavBarContainer,
@@ -7,11 +8,12 @@ import {
 } from './Style';
 
 function NavBar() {
+  const navigate = useNavigate();
   return (
     <Navbar>
       <NavBarContainer />
       <ListTask>
-        <TastBlock>Главная</TastBlock>
+        <TastBlock onClick={() => navigate('/')}>Главная</TastBlock>
         <TastBlock>Компания</TastBlock>
         <TastBlock>Социальные сети</TastBlock>
         <TastBlock>Контроль рекрутеров</TastBlock>
