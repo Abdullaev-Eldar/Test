@@ -43,14 +43,14 @@ function CandidatCard() {
         <button type="button" className="bttn2">Записать и закрыть</button>
         <button type="button" className="bttn2">Записать</button>
         <button type="button" className="bttn2 dropdown-toggle">
-          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" className="bi bi-printer" viewBox="0 0 16 16">
+          <svg xmlns="http://www.w3.org/2000/svg" width="35" height="20" fill="currentColor" className="bi bi-printer" viewBox="0 0 16 16">
             <path d="M2.5 8a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z" />
             <path d="M5 1a2 2 0 0 0-2 2v2H2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h1v1a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2v-1h1a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-1V3a2 2 0 0 0-2-2H5zM4 3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1v2H4V3zm1 5a2 2 0 0 0-2 2v1H2a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v-1a2 2 0 0 0-2-2H5zm7 2v3a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1z" />
           </svg>
           Печать
         </button>
         <button type="button" className="bttn2">
-          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" className="bi bi-link-45deg" viewBox="0 0 16 16">
+          <svg xmlns="http://www.w3.org/2000/svg" width="25" height="20" fill="currentColor" className="bi bi-link-45deg" viewBox="0 0 16 16">
             <path d="M4.715 6.542 3.343 7.914a3 3 0 1 0 4.243 4.243l1.828-1.829A3 3 0 0 0 8.586 5.5L8 6.086a1.002 1.002 0 0 0-.154.199 2 2 0 0 1 .861 3.337L6.88 11.45a2 2 0 1 1-2.83-2.83l.793-.792a4.018 4.018 0 0 1-.128-1.287z" />
             <path d="M6.586 4.672A3 3 0 0 0 7.414 9.5l.775-.776a2 2 0 0 1-.896-3.346L9.12 3.55a2 2 0 1 1 2.83 2.83l-.793.792c.112.42.155.855.128 1.287l1.372-1.372a3 3 0 1 0-4.243-4.243L6.586 4.672z" />
           </svg>
@@ -88,8 +88,8 @@ function CandidatCard() {
           <img src="https://assets.gq.ru/photos/5e1c47b97df1dc0008dbb0be/1:1/w_2651,h_2651,c_limit/0.jpg" style={{ width: 250, height: 250 }} alt="..." />
         </div>
         <div className="button-more">
-          <button onClick={clickHandler1} type="button" className="bttn">Общая информация</button>
-          <button onClick={clickHandler2} type="button" className="bttn">Контактная информация</button>
+          <button onClick={clickHandler1} type="button" className="bttn2">Общая информация</button>
+          <button onClick={clickHandler2} type="button" className="bttn2">Контактная информация</button>
         </div>
         <div className="general-information">
           {clickButton1 ? (
@@ -153,7 +153,7 @@ function CandidatCard() {
               <div className="about-candidate">
                 <div className="list">
                   <div className="title">Резюме:</div>
-                  <div className="info-experience">https://hh.ru/resume/d17530b0ff0b58b4a80039ed1f745946495472</div>
+                  <div className="info-experience">https://hh.ru/resume/495298509240922</div>
                 </div>
               </div>
             </>

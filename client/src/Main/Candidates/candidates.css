@@ -22,7 +22,7 @@ height: 60px;
     font-size: 18px;
 }
 .bttn-end{
- margin-left: 700px;
+ margin-left: 900px;
 }
 
 .table{
@@ -30,4 +30,10 @@ height: 60px;
     border-color: rgb(101, 101, 101);
     border-style: solid;
     margin: 10px;
+}
+tr{
+    font-size: 18px;
+}
+tr:hover{
+     background-color: #1976d270;
 }

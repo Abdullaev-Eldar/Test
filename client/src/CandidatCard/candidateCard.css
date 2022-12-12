@@ -26,6 +26,7 @@
         border-radius: 3px;
         background-color: rgb(255, 255, 255);
         font-size: 18px;
+        border-radius: 5px;
     }
     .bttn2:hover{
         background-color: #1976D2;
