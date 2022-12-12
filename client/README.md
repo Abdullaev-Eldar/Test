@@ -1,22 +1,19 @@
 ## Test
-<p align="center">
-      <a href="https://ibb.co/m43Hmrd" alt="..." border="0"></a>
-</p>
 
 ## About
-Пет проект Full stack веб приложение
-Демо версия социальной сети для автомобилистов
 
-Реализованный функционал:
-- выбор сообщества по марке и модели авто.
-<a href="https://ibb.co/QjNcJ5j"><img width="70%" src="https://i.ibb.co/M5VhgX5/2022-12-08-13-09-11.png" alt="2022-12-08-13-09-11" border="0"></a>
-- поиск по постам, добавление постов, добавление комментариев к постам
-<a href="https://ibb.co/dMSLBhg"><img width="70%" src="https://i.ibb.co/xLyfh4H/2022-12-08-13-18-19.png" alt="2022-12-08-13-18-19" border="0"></a>
-- лайки к постам, добавление поста в избранное
-- просмотр статей и фотографий сообщества
-<a href="https://ibb.co/djwrMsd"><img width="70%" src="https://i.ibb.co/YPF3Q4z/2022-12-08-13-21-37.png" alt="2022-12-08-13-21-37" border="0"></a>
-- авторизация/регистрация с использованием bcrypt. 
-- подписки на сообщества.
+
+<a href="https://ibb.co/m43Hmrd"><img width="70%" src="https://i.ibb.co/sqZFhpc/2022-12-12-19-12-06.jpg" alt="..." border="0"></a>
+
+<a href="https://ibb.co/p3fKS6f"><img width="70%" src="https://i.ibb.co/p3fKS6f/2022-12-12-19-12-16.jpg" alt="..." border="0"></a>
+
+<a href="https://ibb.co/gVXbW7d"><img width="70%" src="https://i.ibb.co/gVXbW7d/2022-12-12-19-12-26.jpg" alt="..." border="0"></a>
+
+<a href="https://ibb.co/6sHkz4t"><img width="70%" src="https://i.ibb.co/6sHkz4t/2022-12-12-19-12-33.jpg" alt="..." border="0"></a>
+
+<a href="https://ibb.co/cc9rPvs"><img width="70%" src="https://i.ibb.co/cc9rPvs/2022-12-12-19-12-38.jpg" alt="..." border="0"></a>
+
+<a href="https://ibb.co/nLbwtgR"><img width="70%" src="https://i.ibb.co/nLbwtgR/2022-12-12-19-12-43.jpg" alt="..." border="0"></a>
 
 ## Documentation
 Для запуска на локальной машине небходимо:
