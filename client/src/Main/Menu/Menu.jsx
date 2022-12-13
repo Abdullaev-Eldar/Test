@@ -13,6 +13,11 @@ function Menu() {
   const clickCandidates = (e) => {
     navigate('/candidates');
   };
+
+  const clickVacancy = () => {
+    navigate('/vacancy');
+  };
+
   return (
     <div className="btn-group" role="group" aria-label="Basic example">
       <button onClick={clickMyTasc} type="button" className="btn btn-secondary">Мои задачи по кандидатам</button>
@@ -20,7 +25,7 @@ function Menu() {
       <button type="button" className="btn btn-secondary">Браузер</button>
       <button type="button" className="btn btn-secondary">Спосок резюме</button>
       <button onClick={clickCandidates} type="button" className="btn btn-secondary">Мои кандидаты</button>
-      <button type="button" className="btn btn-secondary">Мои вакансии</button>
+      <button onClick={clickVacancy} type="button" className="btn btn-secondary">Мои вакансии</button>
     </div>
   );
 }

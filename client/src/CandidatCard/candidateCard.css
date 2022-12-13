@@ -42,9 +42,6 @@
         margin-left: 240px;
         display: flex;
         flex-direction: column;
-        /* border-width:1;
-        border-color: rgb(101, 101, 101);
-        border-style: solid; */
         height: 760px;
     }
     .list{
@@ -70,8 +67,7 @@
         border-color: #1976D2;
     }
     .info-experience{
-        margin-left: 80px;
-        /* width: 90px; */
+        margin-left: 30px;
         width: auto;
         justify-content: center;
         border-width:1;

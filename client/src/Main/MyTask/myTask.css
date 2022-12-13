@@ -63,7 +63,7 @@
 display: flex;
 }
 .condidateBox:hover{
-    background-color: #1976D2;
+    background-color: #1976d26e;
 }
 .condidate{
     overflow-x: auto;

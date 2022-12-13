@@ -16,6 +16,7 @@ height: 60px;
 }
 
 .bttn{
+    white-space: nowrap;
     margin: 5px;
     border-radius: 3px;
     background-color: rgb(255, 255, 255);
@@ -35,5 +36,5 @@ tr{
     font-size: 18px;
 }
 tr:hover{
-     background-color: #1976d270;
+     background-color: #1976d26d;
 }
