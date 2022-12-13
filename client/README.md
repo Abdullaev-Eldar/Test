@@ -12,6 +12,12 @@
 
 <a href="https://ibb.co/nLbwtgR"><img width="70%" src="https://i.ibb.co/W26Hjxs/2022-12-12-19-12-43.jpg" alt="2022-12-12-19-12-43" border="0"></a>
 
+<a href="https://ibb.co/JCf9HjZ"><img src="https://i.ibb.co/jHcSDkt/2022-12-13-19-41-15.jpg" alt="2022-12-13-19-41-15" border="0"></a>
+
+<a href="https://ibb.co/BVXyLm4"><img width="70%" src="https://i.ibb.co/TBV4cZK/2022-12-13-19-41-30.jpg" alt="2022-12-13-19-41-30" border="0"></a>
+
+<a href="https://ibb.co/pP4JV1r"><img width="70%" src="https://i.ibb.co/fSr46XG/2022-12-13-19-41-37.jpg" alt="2022-12-13-19-41-37" border="0"></a>
+
 ## Documentation
 Для запуска на локальной машине небходимо:
 1. Проинициализовать папку \client  
